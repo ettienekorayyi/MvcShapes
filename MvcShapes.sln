@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcShapes", "MvcShapes\MvcShapes.csproj", "{36C99413-0C0B-495B-A5E0-6ABDB6DCE0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C99413-0C0B-495B-A5E0-6ABDB6DCE0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C99413-0C0B-495B-A5E0-6ABDB6DCE0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C99413-0C0B-495B-A5E0-6ABDB6DCE0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C99413-0C0B-495B-A5E0-6ABDB6DCE0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

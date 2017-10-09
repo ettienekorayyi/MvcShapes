@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Square</h2>
+@using (Html.BeginForm("GetAreaOfSquare", "Square"))
+{
+    <table class="table">
+        <tr>
+            <td>
+                Input Length:    <input type="text" id="inputLength" name="length"><br>
+                <input type="submit" id="submitId" value="Submit" onclick="window.location.href = '/Square/GetAreaOfSquare/length';">
+            </td>
+        </tr>
+    </table>
+}
+
+
